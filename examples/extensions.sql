@@ -1,6 +1,6 @@
 -- Enter the CLI again and try the following
 -- view extensions 
-SELECT * FROM duckdb_extensions();
+SELECT * FROM duckdb_extensions(); -- FROM duckdb_extensions(); also works
 -- Install extension
 INSTALL httpfs;
 -- Load extension
